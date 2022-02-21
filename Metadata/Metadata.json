@@ -1,0 +1,28 @@
+{
+  "721": {
+    "354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081": {
+      "QAI": {
+        "QuantumAI": "1000000000",
+        "description": "Quantum AI Computing",
+        "files": [
+          {
+            "mediaType": "image/png",
+            "name": "QAI",
+            "src": "ipfs://QmRMJLv5tBQcYHPDfeWohk9bDPcd2bgtgP43h6SS2d7MeF"
+          }
+        ],
+        "image": "ipfs://QmRMJLv5tBQcYHPDfeWohk9bDPcd2bgtgP43h6SS2d7MeF",
+        "mediaType": "image/png",
+        "minting": {
+          "blockchain": "cardano",
+          "mintedBeforeSlotNumber": 52714568,
+          "type": "time-lock-policy"
+        },
+        "name": "Quantum AI",
+        "symbol": "QAI",
+        "tokenType": "token",
+        "totalSupply": 1000000000
+      }
+    }
+  }
+}
